@@ -2,7 +2,7 @@ from mean_var_std import calculate
 
 if __name__ == "__main__":
     try:
-        user_input = input("Please enter 9 numbers separated by commas: ").split(',')
+        user_input = input("Hello! Please enter 9 numbers separated by commas: ").split(',')
 
         user_input = [int(num.strip()) for num in user_input]
         
