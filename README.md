@@ -34,8 +34,9 @@ For example, calculate([0,1,2,3,4,5,6,7,8]) should return:
   'min': [[0, 1, 2], [0, 3, 6], 0],
   'sum': [[9, 12, 15], [3, 12, 21], 36]
 }
-Development
+
+# Development
 Write your code in mean_var_std.py. For development, you can use main.py to test your code. In order to run your code, type python3 main.py into the GitPod terminal and hit enter. This will cause the included CPython interpreter to run the main.py file.
 
-Testing
+# Testing
 The unit tests for this project are in test_module.py. We imported the tests from test_module.py to main.py for your convenience.
